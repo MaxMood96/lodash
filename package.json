@@ -15,8 +15,8 @@
   },
   "devDependencies": {
     "mocha": "^5.2.0",
-    "eslint": "^7.16.0",
-    "eslint-plugin-import": "^2.22.1",
+    "eslint": "^8.44.0",
+    "eslint-plugin-import": "^2.28.0",
     "lodash": "4.17.20",
     "esm": "^3.2.25"
   }
